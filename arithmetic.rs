@@ -1,8 +1,3 @@
-// Task : To explain assignment operations in rust
-// Author : Vigneshwer
-// Version : 1.0
-// Date : 3 Dec 2016
-
 fn main(){
 	// Arithmetic Operations
 	println!("5 + 4 = {}", 5+4 );
