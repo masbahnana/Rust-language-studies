@@ -1,8 +1,3 @@
-// Task : To explain string in rust
-// Author : Vigneshwer
-// Version : 1.0
-// Date : 3 Dec 2016
-
 fn main() {
 	// declaring a random string
 	let rand_string = "I love Rust cookbook <3";

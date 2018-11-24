@@ -1,8 +1,3 @@
-// Task : To explain assignment operations in rust
-// Author : Vigneshwer
-// Version : 1.0
-// Date : 3 Dec 2016
-
 fn main(){
 	// Prints the first 2 numbers after the decimal points
 	println!("{:.2}",1.2345 );

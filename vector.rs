@@ -1,8 +1,3 @@
-// Task : To explain vector in rust
-// Author : Vigneshwer
-// Version : 1.0
-// Date : 3 Dec 2016
-
 fn main() {
 	// declaring a vector
 	let mut vec1 = vec![1,2,3,4,5];

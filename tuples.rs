@@ -1,8 +1,3 @@
-// Task : To explain tuples in rust
-// Author : Vigneshwer
-// Version : 1.0
-// Date : 3 Dec 2016
-
 use std::{i8};
 
 fn main() {

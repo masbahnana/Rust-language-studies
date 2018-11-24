@@ -1,8 +1,3 @@
-// Task : Basic mathematical model on 2 numbers
-// Date : 26th Dec 2016
-// Version : 1.0
-// Author : Vigneshwer
-
 // Libraries in rust
 use std::io;
 use std::{i32};
